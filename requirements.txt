@@ -1,0 +1,12 @@
+numpy
+tqdm
+scipy
+statsmodels
+nibabel
+pandas
+lazycon
+scikit-learn
+scikit-image
+pylidc
+pydicom
+mdai
